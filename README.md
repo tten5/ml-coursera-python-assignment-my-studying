@@ -1,8 +1,7 @@
 # [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) 
-# Python Programming Assignments - with answers by me 
 
+This repo is for storing my answers for python programming assignments in this Machine Learning course by Andrew NG 
 Original assigments can be found here: https://github.com/dibgerge/ml-coursera-python-assignments
-
 
 # Python Programming Assignments - Guidance (from the original repo)
 
